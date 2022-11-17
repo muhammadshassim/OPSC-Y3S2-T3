@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "548872867631",
+    "project_id": "mapsappopsc",
+    "storage_bucket": "mapsappopsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548872867631:android:f4392b4bb81797a23c5bda",
+        "android_client_info": {
+          "package_name": "com.muhammad.novamaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548872867631-6b7te8df078pg8isu0imb9kf9vkvtn1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFRHdkPQ2w40xiVh3rCwRU1tnmCQuyjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548872867631-6b7te8df078pg8isu0imb9kf9vkvtn1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "548872867631-tmb7jqpf43h1hiq78riddr9pso084rr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muhammad.novamaps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
